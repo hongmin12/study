@@ -1,4 +1,4 @@
-public class study2 {
+public class Study2 {
 
     public static void main(String[] args) {
 
@@ -8,7 +8,6 @@ public class study2 {
         for(int i=0; i<numbers.length; i++){
             answer = answer-numbers[i];
         }
-        System.out.println(answer);
 
     }
 

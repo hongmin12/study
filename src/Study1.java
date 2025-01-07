@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-
-public class study1 {
+public class Study1 {
 
     public static void main(String[] args) {
 
@@ -17,9 +15,6 @@ public class study1 {
             }
 
         }
-
-
-        System.out.println(answer);
 
     }
 
